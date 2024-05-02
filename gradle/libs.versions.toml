@@ -13,6 +13,7 @@ appcompat = "1.6.1"
 androidbrowserhelper = "2.5.0"
 
 [libraries]
+accompanist-permissions = { module = "com.google.accompanist:accompanist-permissions" }
 androidx-camera-camera2 = { module = "androidx.camera:camera-camera2", version.ref = "cameraCore" }
 androidx-camera-core = { module = "androidx.camera:camera-core", version.ref = "cameraCore" }
 androidx-camera-extensions = { module = "androidx.camera:camera-extensions", version.ref = "cameraCore" }
